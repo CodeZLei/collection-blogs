@@ -4,6 +4,7 @@
 ###### [JAVA中的HashMap](https://www.javadoop.com/post/hashmap)
 ###### [ThreadLocal原理](http://mp.weixin.qq.com/s?__biz=MzU0OTk3ODQ3Ng==&mid=2247487363&idx=1&sn=4a62e64b27c29b25d51bac8782fb6380&chksm=fba6e780ccd16e9665b442833502796e70aacf916c4a3c18ace32b1a60037d6790a8daae25a3&mpshare=1&scene=24&srcid=&sharer_sharetime=1589160032986&sharer_shareid=5591946ba1b1a7478c3758c19f9ff8e1#rd)
 ###### [AQS原理](http://mp.weixin.qq.com/s?__biz=MzI0ODk2NDIyMQ==&mid=2247483718&idx=1&sn=b46b2554382fd5ae922cc7778982539e&chksm=e999f454deee7d428cecca8c2bf5e851155c1f887f51e3ec389f7121e3352119c690e950c694&mpshare=1&scene=24&srcid=0511nINZWivevmi9OVZSDrOr&sharer_sharetime=1589159898514&sharer_shareid=5591946ba1b1a7478c3758c19f9ff8e1#rd)
+###### [JAVA OOM分析](https://blog.csdn.net/y18630246793194530/article/details/96596304)
 
 ### 算法相关
 ###### [五大算法](https://blog.csdn.net/yake827/article/details/52119469)
