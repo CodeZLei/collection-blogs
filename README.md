@@ -17,3 +17,6 @@
 ###### [mysql的锁表处理](https://www.jianshu.com/p/6adb855522ad)
 ###### [mysql死锁日志的分析](https://www.jb51.net/article/106247.htm)
 ###### [mysql的间隙锁](https://time.geekbang.org/column/article/75659)
+
+### linux相关
+###### [CPU使用率排查](https://blog.csdn.net/coldcp/article/details/101192481)
