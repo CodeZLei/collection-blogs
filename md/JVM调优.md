@@ -128,6 +128,9 @@
 * Linux中没找到默认GC的查看方法，而windows中会打印UseParallelGC 
   * java +XX:+PrintCommandLineFlags -version
   * 通过GC的日志来分辨
+* java -XX:+PrintFlagsFinal          	 设置的生效的值
+* java -XX:+PrintFlagsInintial       	 默认值
+* java -XX:+PrintCommandLineFlags  	 命令行参数
 
 * Linux下1.8版本默认的垃圾回收器到底是什么？
 
