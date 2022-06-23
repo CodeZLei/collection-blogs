@@ -920,3 +920,14 @@ OOM产生的原因多种多样，有些程序未必产生OOM，不断FGC(CPU飙�
    2. jmap -histo pid
    3. jmap -clstats pid
 9. https://blog.csdn.net/chenssy/article/details/78271744 分析hotspot error file
+	
+	
+	
+1，top ##找到cpu异常的pid
+2，top -H -p pid ##找到异常的thread id
+3，printf "%x\n" thread id ##转换成十六进制 tid
+4，jstack pid |grep 'tid' -A 60 ##十六进制tid ##看异常的栈信息。
+5，jstack -l pid > pid.log ##保存现场
+6，jstat -gcutil pid interval(ms) ##查看gc数据
+
+
